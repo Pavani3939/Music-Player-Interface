@@ -2,10 +2,6 @@
 
 A fully functional, desktop-native music player application built with Java. This application leverages Java Swing for a clean, responsive graphical user interface and the Java Sound API for high-fidelity WAV audio playback and playlist management.
 
-🚀 **[Live Demo](#)**
-*(Note: Since this is a native Java Desktop Application, the live demo is not applicable in a web browser. Add a YouTube video link or your own screenshot here.)*
-
----
 
 ## 🌟 Key Features
 
